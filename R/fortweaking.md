@@ -5,4 +5,4 @@ July 17, 2018
 
 Adding a line just to create a file.
 
-tweak on dev2
+&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD tweak on dev2 ======= tweak on dev2 &gt;&gt;&gt;&gt;&gt;&gt;&gt; dev2
