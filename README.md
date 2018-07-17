@@ -10,3 +10,5 @@ This project is to illustrate how to assemble an analysis son GitHub in a way th
 Typically, for a real project, insert discussion of your understanding of the project.
 
 This is a practice project for the UW Summer Institute class on Reproducibility in Big Data Research.
+
+We are doing a good job!!!
